@@ -47,5 +47,5 @@ ou
 - Glissez le contenu du dossier télécharger dans le dossier > 'web/assets/images/favicon'
 
 
-###Des questions ? 
+### Des questions ? 
 > hello+cours@aylaetc.fr
