@@ -3,7 +3,7 @@
 Ce template va vous permettre de mettre un premier pas dans l'automatisation des contenus. 
 Prenez le temps de bien regarder la structure. Voici quelques clefs pour la comprendre :
 
-> Passez par MAMP ou WAMP pour travailler sur le projet
+> Ouvrez le template avec MAMP ou WAMP. Cliquez sur le dossier 'php24_template' puis 'web'.
 
 ## Créer une nouvelle page
 
