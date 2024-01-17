@@ -12,7 +12,7 @@ Prenez le temps de bien regarder la structure. Voici quelques clefs pour la comp
 - Appelez vos sections et blocks dans la page
 
 
-### Blocks VS Sections
+## Blocks VS Sections
 
 - Les blocks d'automatisé un contenu qui sera répété plusieurs fois dans notre site : socialmedia, nav, logo.
 - Les sections contiennent un contenu thématique, unique.
@@ -23,12 +23,12 @@ Prenez le temps de bien regarder la structure. Voici quelques clefs pour la comp
 - Dans le cas d'un site MULTI PAGE, on pourrait créer une section pour chaque page (section-home, section-services...) et les appeler dans la page 'index'.
 
 
-#### Appeler sa CSS 
+## Appeler sa CSS 
 
 Quand vous créez une nouvelle css dans un des dossiers, vous devez l'appelez dans le fichier de css 'web/assets/css/global.css'.
 
 
-##### Appler les fonts
+## Appler les fonts
 
 - Glissez vos fonts dans le dossier 'web/assets/fonts'
 - Utilisez le fichier 'web/assets/css/fonts.css' pour les appeler
@@ -36,16 +36,16 @@ ou
 - Utilisez le fichier 'web/assets/css/fonts.css' pour des Googles Fonts
 
 
-###### Les fonctions
+## Les fonctions
 
 À utiliser avec modération, elles permettent de créer des classes qui automatisent la mise en forme du contenu.
 
 
-####### Favicon
+## Favicon
 
 - Générez vos Favicon ici : https://www.favicon-generator.org
 - Glissez le contenu du dossier télécharger dans le dossier > 'web/assets/images/favicon'
 
 
-Des questions ? 
+###Des questions ? 
 > hello+cours@aylaetc.fr
