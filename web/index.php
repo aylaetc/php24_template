@@ -8,6 +8,7 @@
         <meta name="description" content="Description de la page">
 
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <link rel="stylesheet" href="assets/css/global.css">
         <!-- favicons -->
         <link rel="apple-touch-icon" sizes="57x57" href="/{{ base_path ~ directory }}/favicons/apple-icon-57x57.png">
