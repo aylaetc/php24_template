@@ -16,11 +16,10 @@ Prenez le temps de bien regarder la structure. Voici quelques clefs pour la comp
 
 - Les blocks d'automatisé un contenu qui sera répété plusieurs fois dans notre site : socialmedia, nav, logo.
 - Les sections contiennent un contenu thématique, unique.
+ 
+> Dans le cas d'un site ONE PAGE (ex: votre rétrospective), on pourrait créer des sections pour chaque  thématiques (musique de l'année, séries de l'année etc...) et les appeler dans la page 'index' (attention au naming de vos sections).
 
-/!\ 
-- Dans le cas d'un site ONE PAGE (ex: votre rétrospective), on pourrait créer des sections pour chaque  thématiques (musique de l'année, séries de l'année etc...) et les appeler dans la page 'index' (attention au naming de vos sections).
-
-- Dans le cas d'un site MULTI PAGE, on pourrait créer une section pour chaque page (section-home, section-services...) et les appeler dans la page 'index'.
+> Dans le cas d'un site MULTI PAGE, on pourrait créer une section pour chaque page (section-home, section-services...) et les appeler dans la page 'index'.
 
 
 ## Appeler sa CSS 
