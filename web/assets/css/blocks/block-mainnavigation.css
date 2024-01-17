@@ -1,0 +1,19 @@
+nav a {
+    text-decoration: none;
+}
+nav li{
+    list-style: none;
+}
+
+#block-mainnavigation ul li a,
+#block-mainnavigation-mobile ul li a,
+#block-mainnavigation-footer ul li a {
+    display: block;
+    margin: 2rem 0;
+}
+
+#block-mainnavigation-mobile ul li:not(:first-child) {
+
+    border-top: solid 1px rgba(000, 000, 000, 0.25);
+
+}
