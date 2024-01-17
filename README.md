@@ -3,6 +3,7 @@
 Ce template va vous permettre de mettre un premier pas dans l'automatisation des contenus. 
 Prenez le temps de bien regarder la structure. Voici quelques clefs pour la comprendre :
 
+> Passez par MAMP ou WAMP pour travailler sur le projet
 
 ## Créer une nouvelle page
 
@@ -47,4 +48,4 @@ ou
 
 
 ### Des questions ? 
-> hello+cours@aylaetc.fr
+* hello+cours@aylaetc.fr
