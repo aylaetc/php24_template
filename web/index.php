@@ -2,16 +2,28 @@
 <html lang="fr-FR">
     <head>
         <meta charset="utf-8">
-
-        <!-- TITRE + META -->
         <title>Titre</title>
-        <meta name="description" content="Description de la page">
 
+        <!-- META -->
+        <meta name="title" content="Titre de la page">
+        <meta name="description" content="Description de la page">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+        <!-- LINK -->
         <link rel="stylesheet" href="assets/css/global.css">
-        
-        <!-- favicons -->
+        <link rel="stylesheet" href="assets/js/fonction.js">
+
+        <!-- OPEN GRAPH -->
+        <meta property="og:type" content="website">
+        <meta property="og:locale" content="en_CA">
+        <meta property="og:title" content="HTML cheatsheet">
+        <meta property="og:url" content="https://quickref.me/html">
+        <meta property="og:image" content="https://xxx.com/image.jpg">
+        <meta property="og:site_name" content="Name of your website">
+        <meta property="og:description" content="Description of this page">
+
+        <!-- FAVICONS -->
         <link rel="apple-touch-icon" sizes="57x57" href="../web/images/favicons/apple-icon-57x57.png">
         <link rel="apple-touch-icon" sizes="60x60" href="../web/images/favicons/apple-icon-60x60.png">
         <link rel="apple-touch-icon" sizes="72x72" href="../web/images/favicons/apple-icon-72x72.png">
